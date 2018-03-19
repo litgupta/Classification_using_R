@@ -1,9 +1,9 @@
-This is a R program to demonstrate how to use classification algorithms in R.
-Dependencies:\n
-caTools: for splitting the data into train and test set\n
-e1071:for regressor,svm ,naiveBayes algorithms
-rpart:for decision tree
-class:for knn algorithm
+This is a R program to demonstrate how to use classification algorithms in R.                   
+Dependencies:
+caTools: for splitting the data into train and test set         
+e1071:for regressor,svm ,naiveBayes algorithms         
+rpart:for decision tree           
+class:for knn algorithm          
 randomForest:for random Forest Algorithm
 
 To install dependencies:
